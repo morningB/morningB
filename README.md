@@ -3,6 +3,12 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
+## 😊WHO AM I😊
+* 
+
+## 🤷‍♂️WHAT EXPERIENCE🤷‍♂️
+*
+
 # 🚩Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjw001205)](https://solved.ac/yjw001205)
