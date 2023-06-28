@@ -1,7 +1,7 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BECOMING%20A%20DEVELOPER&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
 # 🚩Baekjoon Online Judge
 
