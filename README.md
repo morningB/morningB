@@ -1,5 +1,11 @@
+<div align="center">
+  
+
+
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BECOMING%20A%20DEVELOPER&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+## 😎stack😎
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
@@ -34,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div
