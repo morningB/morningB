@@ -13,7 +13,9 @@
 * 
 
 ## 🤷‍♂️WHAT EXPERIENCE🤷‍♂️
-*
+* 멋쟁이사자처럼 11기(현재 활동 중)
+* SCH 프런티어 1,2기 (2기는 현재 활동 중)
+* 
 
 # 🚩Baekjoon Online Judge
 
