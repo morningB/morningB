@@ -6,7 +6,10 @@
 
 ## 😎stack😎
 <img src="https://img.shields.io/badge/C%20language-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/Java-FF0000.svg?&style=flat&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 
+## 🌃myblog🌃
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
 ## 😊WHO AM I😊
