@@ -5,7 +5,7 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BECOMING%20A%20DEVELOPER&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ## 😎stack😎
-<img src="https://img.shields.io/badge/C%20language-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Java-FF0000.svg?&style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 
