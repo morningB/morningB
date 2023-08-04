@@ -12,8 +12,8 @@
 ## 🌃myblog🌃
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
-## 😊WHO AM I😊
-* 
+<!--## 😊WHO AM I😊 -->
+ 
 
 ## 🤷‍♂️WHAT EXPERIENCE🤷‍♂️
 * 멋쟁이사자처럼 11기(현재 활동 중)
