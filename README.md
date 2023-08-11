@@ -18,11 +18,11 @@
 * 멋쟁이사자처럼 11기(현재 활동 중)
 * SCH 프런티어 1,2기 (2기는 현재 활동 중)
 * 2022 연합대학 SW창업경진대회
-* 제 2023 순천향 SW 해커톤 대회
+* 제 2회 2023 순천향 SW 해커톤 대회
 
 ## 🎉Receiving an award🎉
 - 2022 연합대학 sw 창업경진대회 우수상
-- 제 2023 순천향 SW 해커톤 대회 우수상
+- 제 2회 2023 순천향 SW 해커톤 대회 우수상
 
 ## 🌃myblog🌃
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
