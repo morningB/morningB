@@ -26,6 +26,14 @@
     
   </ul>
 
+## 🎊Award🎊
+<div align="left">
+  <ul>
+   <li> 2022 연합대학 SW창업경진대회 우수상</li>   
+   <li> 제 2회 2023 순천향 SW 해커톤 대회 우수상</li>
+    
+  </ul>
+
 ## 🌃myblog🌃
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
 
