@@ -26,7 +26,9 @@
     
   </ul>
 
-## 🎊Award🎊
+
+##  🎉Receiving an award🎉
+
 <div align="left">
   <ul>
    <li> 2022 연합대학 SW창업경진대회 우수상</li>   
