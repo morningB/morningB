@@ -5,16 +5,20 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BECOMING%20A%20DEVELOPER&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ## 😎stack😎
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FF0000.svg?&style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <!--## 😊WHO AM I😊 -->
  
 
-## 🤷‍♂️WHAT EXPERIENCE🤷‍♂️
+##  🤷‍♂️WHAT EXPERIENCE🤷‍♂️
+
 <div align="left">
   <ul>
    <li>멋쟁이사자처럼 11기(현재 활동 중)</li>   
@@ -27,9 +31,9 @@
      <li> 순천향대학교 의료과학대학 학술제</li>
     <li>2023년도 대한의용생체공학회 추계학술대회 참여</li>
   </ul>
+</div>
 
-
-##  🎉Receiving an award🎉
+## 🎉Receiving an award🎉
 
 <div align="left">
   <ul>
@@ -37,6 +41,7 @@
    <li> 제 2회 2023 순천향 SW 해커톤 대회 우수상</li>
      <li> 순천향대학교 의료과학대학 학술제 산학분야 우수상</li>
   </ul>
+</div>
 
 ## 🌃myblog🌃
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joowon)](https://velog.io/@yjw001205)
