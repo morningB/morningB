@@ -1,22 +1,22 @@
+
 <div align="center">
   
+# 🎊 WELCOME MY OWN SPACE 🎊
+<img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/69711f11-6652-4ca4-9410-926e560f3a0a.gif"/>
 
-
-![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/69711f11-6652-4ca4-9410-926e560f3a0a)
+<!--<img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/82319382-2323-4cd3-9c40-b9c57cf5b79e.gif"/>-->
 
 
 ## 😎stack😎
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FF0000.svg?&style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
-<!--## 😊WHO AM I😊 -->
- 
 
 ##  🤷‍♂️WHAT EXPERIENCE🤷‍♂️
 
