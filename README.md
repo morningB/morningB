@@ -2,7 +2,8 @@
   
 
 
-# ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BECOMING%20A%20DEVELOPER&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/69711f11-6652-4ca4-9410-926e560f3a0a)
+
 
 ## 😎stack😎
 
