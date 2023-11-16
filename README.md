@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 🎊 WELCOME MY OWN SPACE 🎊
+# 🎊 WELCOME TO MY OWN SPACE 🎊
 <img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/69711f11-6652-4ca4-9410-926e560f3a0a.gif"/>
 
 <!--<img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/82319382-2323-4cd3-9c40-b9c57cf5b79e.gif"/>-->
