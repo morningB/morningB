@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 
-##  🤷‍♂️WHAT EXPERIENCE🤷‍♂️
+##  🤔WHAT EXPERIENCE🤔
 
 <div align="left">
   <ul>
