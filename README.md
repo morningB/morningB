@@ -2,7 +2,7 @@
 <div align="center">
   
 # 🎊 WELCOME TO MY OWN SPACE 🎊
-![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/d8f769c6-d3f3-471a-9c3d-c4731c0f8524)
+<!--![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/d8f769c6-d3f3-471a-9c3d-c4731c0f8524)
 
 
 <!--<img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/82319382-2323-4cd3-9c40-b9c57cf5b79e.gif"/>-->
