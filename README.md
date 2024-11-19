@@ -7,7 +7,7 @@
 
 <!--<img style="display:inline-block" width="50%" src="https://github.com/morningB/morningB/assets/114423035/82319382-2323-4cd3-9c40-b9c57cf5b79e.gif"/>-->
 
-
+<!--
 ## 😎stack😎
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
-
+-->
 ##  🤔WHAT EXPERIENCE🤔
 
 <div align="left">
@@ -45,6 +45,7 @@
    <li> 제 2회 2023 순천향 SW 해커톤 대회 우수상</li>
      <li> 순천향대학교 의료과학대학 학술제 산학분야 우수상</li>
     <li>제 7회 빅데이터 분석 및 개발 경진 대회 우수상</li>
+    <li>제 1회 SW융합대학 학술제 장려상</li>
   </ul>
 </div>
 
