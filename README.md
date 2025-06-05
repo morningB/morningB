@@ -1,6 +1,6 @@
 <div align="center">
   
-## 움직임을 코드로 번역하는 데 관신이 큰 개발자 윤주원입니다.
+## 움직임을 코드로 번역하는 데 관심이 큰 개발자 윤주원입니다.
 <!--![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/d8f769c6-d3f3-471a-9c3d-c4731c0f8524)
 
 
@@ -53,6 +53,8 @@
       	<ol type = '1'>
 	   <li>📊2023 순천향대학교 의료과학대학 학술제 발표</li>
 	   <li>📌2023 대한의용생체공학회 추계학술대회 포스터 발표</li>
+	<li>📌2024 IEEE-EMBS International Conference on Biomedical and Health Informatics 포스터 발표</li>
+	<li>📌2024년도 대한의료정보학회 추계 학술대회 포스터 발표</li>
 	</ol>
       </li>
     <li>🧩광명융합기술교육원 증강현실시스템과(현재)
