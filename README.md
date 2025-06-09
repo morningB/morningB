@@ -1,6 +1,25 @@
+<h1 align="center">🕹️ Welcome, Player 1</h1>
+<p align="center">
+🧩 Unity Engineer | ⚔️ Unreal C++ Dev | 🧠 Gameplay Architect  
+"움직임을 코드로 번역하는 데 관심이 깊은 개발자 윤주원입니다."
+
+---
+
+<h1 align="center">🎯 Current Loadout</h1>
+</p>
+
++ Unity6   → C#, ScriptableObject, FSM
++ Unreal Engine 5.5  → C++, Blueprint, BehaviorTree
+<!--
++ XR Toolkit         → AR Foundation, Meta Quest SDK
++ Git LFS            → .uasset, .fbx, .wav 추적 중
+-->
+
+
 <div align="center">
-  
-## 움직임을 코드로 번역하는 데 관심이 큰 개발자 윤주원입니다.
+
+
+## 
 <!--![제리인사-존중](https://github.com/morningB/morningB/assets/114423035/d8f769c6-d3f3-471a-9c3d-c4731c0f8524)
 
 
