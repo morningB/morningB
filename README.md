@@ -10,11 +10,10 @@
 
 + Unity6   → C#, ScriptableObject, FSM
 + Unreal Engine 5.5  → C++, Blueprint, BehaviorTree
-<!--
-+ XR Toolkit         → AR Foundation, Meta Quest SDK
-+ Git LFS            → .uasset, .fbx, .wav 추적 중
--->
 
+<div align="center">
+	<img src="https://github.com/morningB/morningB/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <div align="center">
 
