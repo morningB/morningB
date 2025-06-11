@@ -1,7 +1,6 @@
 <h1 align="center">🕹️ Welcome, Player 1</h1>
 <p align="center">
-🧩 Unity Engineer | ⚔️ Unreal C++ Dev | 🧠 Gameplay Architect  
-"움직임을 코드로 번역하는 데 관심이 깊은 개발자 윤주원입니다."
+🧩 Unity Engineer | ⚔️ Unreal C++ Dev | 🧠 Gameplay Architect <br>"움직임을 코드로 번역하는 데 관심이 깊은 개발자 윤주원입니다."
 
 ---
 
